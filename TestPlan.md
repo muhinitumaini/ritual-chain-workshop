@@ -4,4 +4,5 @@
 - Cannot submit after deadline (reverts)
 - Only owner can judge (reverts for others)
 - Cannot judge before deadline (reverts)
+- Only TEE can call callback (reverts for others)
 - TEE callback updates bundle hash

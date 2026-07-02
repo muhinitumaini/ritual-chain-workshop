@@ -1,6 +1,6 @@
 # EncryptedAIBounty – Ritual-Native Encrypted Submissions
 
-This contract uses **Ritual's TEE (Trusted Execution Environment)** to handle encrypted submissions. Answers are encrypted before submission and only decrypted inside the TEE for AI judging, ensuring complete privacy.
+This contract uses Ritual's TEE (Trusted Execution Environment) to handle encrypted submissions. Answers are encrypted before submission and only decrypted inside the TEE for AI judging, ensuring complete privacy.
 
 ## How it works
 1. Participants encrypt their answers with a symmetric key
@@ -14,10 +14,13 @@ This contract uses **Ritual's TEE (Trusted Execution Environment)** to handle en
 Answers stay completely hidden until after judging – no reveal phase needed.
 
 ## Contract Address (Ritual Testnet)
-0xBBD12db74EfD344a48A94A6e8Af8351dc4CBD081
+0x09Bb1faec065404948F06883B7C83BeD82FF682B
 
 ## Network
 Ritual Chain Testnet (ID: 1979)
 
 ## Native Token
 RIT (Ritual Token) – 18 decimals
+
+## TEE Address
+0xYOUR_TEE_ADDRESS
